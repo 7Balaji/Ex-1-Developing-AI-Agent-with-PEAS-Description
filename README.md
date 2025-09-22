@@ -1,7 +1,7 @@
 # Ex-1-Developing-AI-Agent-with-PEAS-Description
-### Name:
+### Name: R.Balaji
 
-### Register Number:
+### Register Number:2305001004
 
 ### Aim:
 To find the PEAS description for the given AI problem and develop an AI agent.
@@ -35,7 +35,7 @@ It’s a framework used to define the task environment for an AI agent clearly.
 5. Personal assistant (like Siri or Alexa)
 ```
 
-### VacuumCleanerAgent
+### Chess playing agent
 ### Algorithm:
 Step 1: Initialize:
 
