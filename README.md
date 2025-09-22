@@ -165,7 +165,7 @@ game()
 ```
 ### Sample Output:
 <img width="331" height="349" alt="Screenshot 2025-09-22 132342" src="https://github.com/user-attachments/assets/70c3de90-0738-4622-be1d-ff04e5151f4a" />
-<img width="331" height="349" alt="Screenshot 2025-09-22 132342" src="https://github.com/user-attachments/assets/c08010df-9f72-4403-ada9-bc03c6a22bf1" />
+<img width="332" height="580" alt="Screenshot 2025-09-22 132456" src="https://github.com/user-attachments/assets/7ab6b8ff-1973-4da3-9753-f783150d6052" />
 
 
 
